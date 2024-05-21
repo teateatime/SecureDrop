@@ -19,5 +19,5 @@ Setup
 
 Instructions for using Secure Drop
 --------------------------
-*Type 'python3 SecureDrop.py' to run the application.
-*Type 'python3 reset.py' to reset Secure Drop and erase all data.
+* Enter 'python3 SecureDrop.py' to run the application.
+* Enter 'python3 reset.py' to reset Secure Drop and erase existing data.
