@@ -1,5 +1,4 @@
 # SecureDrop
------------------------
 
 A Secure File Transfer System and more secure version of Apple's AirDrop
 
