@@ -3,6 +3,7 @@
 A Secure File Transfer System and more secure version of Apple's AirDrop
 
 Technologies Used
+------------------------
 
 * Python: Primary language for development
 * cryptography: For encryption (Fernet)
