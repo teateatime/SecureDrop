@@ -1,10 +1,24 @@
-The following python packages need to be installed for Secure Drop to work:
-cryptography ('pip install cryptography')
-stdiomask ('pip install stdiomask')
-tinyec ('pip install tinyec')
-cffi ('pip install cffi')
+# SecureDrop
+-----------------------
 
-Instructions for using Secure Drop:
-Type 'python3 SecureDrop.py' to run Secure Drop.
+A Secure File Transfer System and more secure version of Apple's AirDrop
 
-Type 'python3 reset.py' to reset Secure Drop and erase all data.
+Technologies Used
+
+* Python: Primary language for development
+* cryptography: For encryption (Fernet)
+
+Setup
+------------------------
+1. clone repository
+2. pip install the neccessary dependencies
+
+* pip install cryptography
+* pip install stdiomask
+* pip install tinyec
+* pip install cffi
+
+Instructions for using Secure Drop
+--------------------------
+*Type 'python3 SecureDrop.py' to run the application.
+*Type 'python3 reset.py' to reset Secure Drop and erase all data.
